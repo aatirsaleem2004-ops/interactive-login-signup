@@ -1,4 +1,4 @@
-# interactive-login-signup
+# Interactive-Login-Signup
 A sleek, responsive Login and Sign-Up authentication interface built with HTML5, CSS3, and Vanilla JavaScript featuring dynamic UI toggling and social OAuth links.
 ## 🚀 Features
 
